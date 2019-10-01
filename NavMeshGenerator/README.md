@@ -10,4 +10,4 @@ Lines are connected between them for the AI to move around
 
 In this demonstration, the AI has random movement, but my A* folder add onto this code
 
-Located in mycreatepathnetwork
+Located in <strong>mycreatepathnetwork</strong>
