@@ -1,3 +1,3 @@
 Built a path network from generated nodes.
 
-Located in mybuildpathnetwork
+Located in <strong>mybuildpathnetwork</strong>
