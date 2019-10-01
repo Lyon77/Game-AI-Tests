@@ -1,6 +1,32 @@
-Welcome to my GameAI Testgrounds!
+# Welcome to my GameAI Testgrounds!
 
 All the pygame movement and UI was NOT created by me, but the algorithms for generating networks and movement was created by me. Each folder has a corresponding README for what I achieved in each project
+
+# Installation
+
+The game engine is built in Python, using the Pygame and NumPy packages.
+
+Pygame is a 32-bit package. You will need a 32-bit version of Python. We use Python 2.7.
+
+## Macintosh OSX 10.7 and above 
+
+(For Mojave see the Anaconda instructions below)
+
+1. brew install python
+2. pip install numpy
+3. pip install --upgrade pip setuptools
+4. pip install pygame
+
+## Linux Fedora
+
+1. sudo yum install numpy
+2. sudo yum install pygame pygame-devel
+
+## Linux Mint
+
+1. Get Python 2.7.6
+2. sudo apt-get install python-pygame
+3. sudo apt-get install python numpy
 
 ## Windows
 
